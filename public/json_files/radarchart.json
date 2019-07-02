@@ -1,0 +1,38 @@
+{"data":[{
+    "country": "Lithuania",
+    "value1": 501,
+    "value2": 250
+  }, {
+    "country": "Czech Republic",
+    "value1": 301,
+    "value2": 222
+  }, {
+    "country": "Ireland",
+    "value1": 266,
+    "value2": 179
+  }, {
+    "country": "Germany",
+    "value1": 165,
+    "value2": 298
+  }, {
+    "country": "Australia",
+    "value1": 139,
+    "value2": 299
+  }, {
+    "country": "Austria",
+    "value1": 336,
+    "value2": 185
+  }, {
+    "country": "UK",
+    "value1": 290,
+    "value2": 150
+  }, {
+    "country": "Belgium",
+    "value1": 325,
+    "value2": 382
+  }, {
+    "country": "The Netherlands",
+    "value1": 40,
+    "value2": 172
+  }]
+}
