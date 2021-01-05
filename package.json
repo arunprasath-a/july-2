@@ -7,7 +7,7 @@
     "ag-grid": "^18.1.2",
     "ag-grid-community": "^21.0.1",
     "ag-grid-react": "^21.0.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
     "react-beforeunload": "^2.0.0",
